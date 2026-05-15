@@ -1,12 +1,12 @@
-# North-Wind-Sales-Analytics
-Data Analysis Project: Northwind Traders Sales & Operations
-This project involves an in-depth analysis of the Northwind Traders dataset, focusing on various aspects of their sales, customer, product, employee, and supplier operations. The analysis leverages SQL for data extraction and transformation, and conceptually uses Power BI for visualization and dashboarding to derive actionable business insights.
+# Prakhar-Sales-Analytics
+Data Analysis Project: Prakhar Traders Sales & Operations
+This project involves an in-depth analysis of the Prakhar Traders dataset, focusing on various aspects of their sales, customer, product, employee, and supplier operations. The analysis leverages SQL for data extraction and transformation, and conceptually uses Power BI for visualization and dashboarding to derive actionable business insights.
 
 ## 🚀 Project Goal
-The primary goal of this project is to uncover key trends, patterns, and correlations within the Northwind Traders dataset to provide actionable insights that can drive business improvements in sales, customer management, inventory, and supply chain efficiency.
+The primary goal of this project is to uncover key trends, patterns, and correlations within the Prakhar Traders dataset to provide actionable insights that can drive business improvements in sales, customer management, inventory, and supply chain efficiency.
 
 ## 📁 Dataset Overview
-The analysis is based on a set of interconnected CSV files representing different entities of the Northwind Traders business. Each file acts as a table in a relational database schema:
+The analysis is based on a set of interconnected CSV files representing different entities of the Prakhar Traders business. Each file acts as a table in a relational database schema:
 
 categories.csv: Product categories.
 
