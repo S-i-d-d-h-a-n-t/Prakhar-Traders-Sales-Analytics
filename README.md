@@ -1,4 +1,4 @@
-# Prakhar-Sales-Analytics
+# Prakhar-Traders-Sales-Analytics
 Data Analysis Project: Prakhar Traders Sales & Operations
 This project involves an in-depth analysis of the Prakhar Traders dataset, focusing on various aspects of their sales, customer, product, employee, and supplier operations. The analysis leverages SQL for data extraction and transformation, and conceptually uses Power BI for visualization and dashboarding to derive actionable business insights.
 
