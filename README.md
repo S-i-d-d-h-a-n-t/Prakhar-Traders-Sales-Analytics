@@ -42,6 +42,8 @@ Power BI : Envisioned for creating interactive dashboards, visualizations, and d
 
 ## 📊 Data Analysis & Insights
  **1. Sales & Revenue Performance** 
+ <img width="1307" height="732" alt="Screenshot 2026-07-27 235717" src="https://github.com/user-attachments/assets/79bdef13-fef3-44a7-817e-2a4a1df82263" />
+
  
 SQL Analysis:
 
@@ -60,6 +62,8 @@ Sales Trend Lines: Visualizing seasonal demand shifts for various product catego
 Anomaly Detection: Implementing visual cues or simple statistical thresholds to highlight unusual spikes or drops in product sales/revenue.
 
 **2. Customer Behavior & Segmentation**
+<img width="1311" height="742" alt="Screenshot 2026-07-27 235413" src="https://github.com/user-attachments/assets/299eb689-58ca-49a9-a411-ceeb767535c2" />
+
 
 SQL Analysis:
 
@@ -78,6 +82,7 @@ Customer Lifetime Value (CLV) Segments: Creating segments (e.g., high-value, fre
 Preferred Category Analysis: Dashboards showing customers' most purchased product categories.
 
 **3. Employee Distribution & Trends**
+<img width="1312" height="738" alt="Screenshot 2026-07-27 235500" src="https://github.com/user-attachments/assets/a76874e9-7460-4a96-bb13-6ddaae2e4953" />
 
 SQL Analysis:
 
@@ -96,6 +101,7 @@ Tenure Distribution Histogram: Visualizing the spread of employee service length
 Hiring Trends Over Time: Line charts showing hiring volume or average hire dates for specific roles or the company overall.
 
 **4. Supplier & Product Sourcing Insights**
+<img width="1316" height="741" alt="Screenshot 2026-07-27 235626" src="https://github.com/user-attachments/assets/7b6bffc1-3285-45d5-a632-d8146e92b41e" />
 
 SQL Analysis:
 
